@@ -1,0 +1,46 @@
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+*.py[cod]
+data/*.csv
+data/*.shp
+data/*.shx
+data/*.dbf
+data/*.prj
+data/*.cpg
+outputs/*
+!outputs/.gitkeep
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# Private settings
+.env
+.env.*
+!.env.example
+
+# Raw data and shapefiles
+data/
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# Private records
+*private*
+*mapping_audit*
+
+# Temporary files
+outputs/
+outputs_next_stage/
+
+# Project archives
+welfare-analysis.zip
+*.zip
+outputs_pca_experiment/
