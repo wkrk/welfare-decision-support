@@ -60,7 +60,7 @@ Python, GeoPandas, PCA, K-Means 및 정책 시뮬레이션을
 
 ## 문서
 
-- [분석 방법론](docs/METHODOLOGY.md)
+- [분석 방법론](docs/methodology.md)
 - [분석 결과](docs/RESULTS.md)
 - [한계 및 유의사항](docs/LIMITATIONS.md)
 - [재현 실행 안내](docs/WORKFLOW.md)
