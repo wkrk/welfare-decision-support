@@ -353,12 +353,7 @@ def make_docs(allocation, summary, baseline):
 
         ![최종 시설 배분 지도](outputs_policy/policy_allocation_maps_final.png)
 
-        ## 문서
-
-        - [분석 방법론](docs/METHODOLOGY.md)
-        - [분석 결과](docs/RESULTS.md)
-        - [한계 및 유의사항](docs/LIMITATIONS.md)
-        - [재현 실행 안내](docs/WORKFLOW.md)
+        
 
         ## 해석상 주의
 
