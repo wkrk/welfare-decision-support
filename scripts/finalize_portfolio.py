@@ -21,7 +21,7 @@ from welfare_analysis.geography import select_ansan_boundaries
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "outputs_policy"
-DOCS = ROOT / "docs"
+
 DATA = ROOT / "data"
 
 METHODS = [
