@@ -586,7 +586,6 @@ def main():
     make_docs(allocation, summary, baseline)
 
     print("\n포트폴리오 지도 및 문서 생성 완료")
-    print("GitHub에 올리기 전에 README_PORTFOLIO.md를 검토하세요.")
 
 
 if __name__ == "__main__":
